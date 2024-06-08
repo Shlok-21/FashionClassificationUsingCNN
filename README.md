@@ -21,3 +21,11 @@ The dataset is a subset of a larger set available from Zalando's garment reposit
 
 ### Final Result
 ![image](https://github.com/Shlok-21/FashionClassificationUsingCNN/assets/91182775/131406a6-3ca3-4bd2-aadc-7f2e5aff6176)
+
+### Predicting on Users Images
+
+![image](https://github.com/Shlok-21/FashionClassificationUsingCNN/assets/91182775/18ff84fb-7201-4bc1-be06-25c770fcd4a1)
+
+![image](https://github.com/Shlok-21/FashionClassificationUsingCNN/assets/91182775/23bbdaa3-4e77-46e3-b80c-3631ec7e3659)
+
+![image](https://github.com/Shlok-21/FashionClassificationUsingCNN/assets/91182775/1cd89ba9-d3e8-42f4-9b0b-07d79094c2fa)
